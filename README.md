@@ -5,9 +5,11 @@
   
 ## Description
 
-A project on FreeCodeCamp and one of the five projects needed for the certification in Javascript Algorithms and Data Structures. This application is a simple palindrome checker. A user can test if a word or phrase is a palindrome by typing it into the input, and clicking the check box. The results will be shown below.
+A project on FreeCodeCamp and one of the five projects needed for the certification in <i>Javascript Algorithms and Data Structures<i>. This application is a simple palindrome checker. A user can test if a word or phrase is a palindrome by typing it into the input, and clicking the check box. The results will be shown below.
 
 ![palindrome](https://github.com/user-attachments/assets/c0f0d1d3-ac19-47b2-b172-70ab72574780)
+
+To test out the palindrone checker click [here](https://goobergreve09.github.io/Palindrome-Checker/)!
   
 ## Table of Contents
 
