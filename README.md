@@ -1,4 +1,4 @@
-# Palindrom-Checker
+# Palindrome-Checker
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,7 +18,7 @@ A project on FreeCodeCamp and one of the five projects needed for the certificat
 
 ## Contributions
 
-freecodecamp
+Thanks for the project and informative tools [FreeCodeCamp](freecodecamp.org)
 
 
 ## License
@@ -30,10 +30,6 @@ The software license selected for this application *is as follows*:
 [MIT](https://opensource.org/licenses/MIT)
 
 
-
-## Tests
-
-no
 
 ## Questions
 
