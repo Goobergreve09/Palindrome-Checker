@@ -1,0 +1,81 @@
+body,
+html {
+  margin: 0;
+  height: 100%;
+}
+
+#page-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #060a32;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#textbox {
+  justify-content: center;
+  color: black;
+  align-items: center;
+  background-color: whitesmoke;
+  padding: 25px;
+  border-radius: 25px;
+  height: 175px;
+  text-align: center;
+  box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.5);
+  width: 500px;
+}
+
+#check-btn {
+  background-color: #7d3c98;
+  color: whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border: none;
+  transition: 0.2s ease;
+}
+
+#check-btn:hover {
+  background-color: #a569bd;
+  cursor: pointer;
+}
+
+#text-input {
+  border: none; 
+  border-bottom: 2px solid #7d3c98; 
+  background: transparent; 
+  outline: none; /* Remove outline on focus */
+  width: 200px;
+  height: 40px; /* Set width */
+  transition: border-color 0.3s; /* Smooth transition for border color */
+  font-size: 24px;
+}
+
+#text-input:focus {
+  border: 2px solid black; 
+}
+
+#result {
+  font-size: 24px;
+}
+h1 {
+  color: whitesmoke;
+  font-size: 40px;
+}
+
+#palindromeInfo {
+  background-color: #145a32;
+  padding: 10px;
+  border-radius: 25px;
+  color: whitesmoke;
+  margin-top: 35px;
+  font-size: 20px;
+  text-align: center;
+}
+#palindromeInfotext {
+  width: 400px;
+}
